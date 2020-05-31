@@ -1,0 +1,2 @@
+# leetcode
+LeetCode tranning records
